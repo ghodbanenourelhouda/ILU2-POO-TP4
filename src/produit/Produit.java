@@ -2,7 +2,7 @@ package produit;
 
 import personnages.Unite ;
 
-public abstract class Produit  {
+public abstract class Produit implements IProduit  {
 	protected String nom ; 
 	protected Unite unite ;
 	

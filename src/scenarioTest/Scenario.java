@@ -3,8 +3,8 @@ package scenarioTest;
 import personnages.Gaulois;
 import produit.Poisson;
 import produit.Sanglier;
-import villagegaulois.Etal;
-import villagegaulois.IEtal;
+import vilagegauloisold.Etal;
+import vilagegauloisold.IEtal;
 
 
 
