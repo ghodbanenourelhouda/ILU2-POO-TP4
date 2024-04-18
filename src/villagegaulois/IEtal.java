@@ -1,6 +1,7 @@
 package villagegaulois;
 
 import personnages.Gaulois;
+import produit.IProduit;
 
 public interface IEtal {
 	Gaulois getVendeur();
